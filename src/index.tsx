@@ -1,3 +1,5 @@
+/** @jsxImportSource @emotion/react */
+import {jsx} from '@emotion/react'
 import {createRoot} from 'react-dom/client'
 // Axios
 import axios from 'axios'
